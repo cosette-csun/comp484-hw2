@@ -1,2 +1,1 @@
-# comp484-hw2
-HW2 Structuring Page Content
+https://csun-orm.github.io/comp484-hw2/
